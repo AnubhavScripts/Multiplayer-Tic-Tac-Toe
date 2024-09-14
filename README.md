@@ -1,2 +1,3 @@
 # Multiplayer Tic-Tac-Toe
- this is a multiplyer tic-tac-toe game with added feature of game draw
+ This is a multiplyer tic-tac-toe game with all the  features that every tic-tac-toe game has.
+ 
